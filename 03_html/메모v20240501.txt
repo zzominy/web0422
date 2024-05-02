@@ -1,3 +1,7 @@
 1. 어제 학습 반복
 2. HTML이란?
 3. HTML 구조
+웹표준, 웹접근성
+<img src="피그마.png" alt="피그마 로고"> 
+속성은 글로벌 속성, 필수 속성, 선택 속성이 있다.
+<a href="https://www.starbucks.co.kr/coffee/product_list.do">커피</a>
