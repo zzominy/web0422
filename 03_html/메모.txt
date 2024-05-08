@@ -13,3 +13,7 @@ alt: 대체텍스트(웹접근성)
 필수속성: src, alt
 선택속성: width(너비), height(높이)
 디자인 성격을 가진 선택속성은 CSS로 작성한다.
+
+www.naver.com -> domain(도메인)
+https -> protocel(프로토콜)
+프로토콜://도메인 -> URL(웹 주소)
