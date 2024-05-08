@@ -15,5 +15,6 @@ alt: 대체텍스트(웹접근성)
 디자인 성격을 가진 선택속성은 CSS로 작성한다.
 
 www.naver.com -> domain(도메인)
+192.168.2.19 -> IP
 https -> protocel(프로토콜)
 프로토콜://도메인 -> URL(웹 주소)
