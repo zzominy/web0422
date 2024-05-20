@@ -1,0 +1,54 @@
+@charset "utf-8";
+
+.contents {
+    display:flex;
+}
+
+/* 
+    선택자
+    1. 클래스: .이름
+    2. 그룹: ,
+    3. 요소(태그, 타입): 태그명
+    4. 하위: 부모 자식(손자)
+*/
+
+/* 
+    .contents(부모) (한칸 공백) div(자식)
+    contents에는 적용되지 않고,
+    그 안의 div 자식 요소(tabs, banner, shortcut)에만 적용 됨
+*/
+
+/* 
+div div {
+    width: 400px;
+    height: 200px;
+} 
+와
+.contents div {
+    width: 400px;
+    height: 200px;
+}
+둘 중 하나 사용해도 됨
+
+div안의 div에 영향을 주는 것 
+or
+클래스명으로 지정 후 그 안의 자식요소를 지정하는 것
+
+*/
+
+.contents div {
+    width: 400px;
+    height: 200px;
+}
+
+.tabs {
+    background: #eee;
+}
+
+.banner {
+    background: #ccc;
+}
+
+.shortcut {
+    background: #aaa;
+}

@@ -134,7 +134,6 @@
     3. 하위(자손: 자식+손자): 부모요소 하위요소
         예) .container4 .section
         예) .container4 .notice
-    4. 자식: 부모요소 > 자식요소
 */
 
 .container4 {
@@ -142,13 +141,8 @@
     margin: 0 auto;
 }
 
-.container4 .section{
-    height: 850px;
-    background: lavenderblush;
-}
 .container4 .header {
     width: 200px;
-    height: 850px;
     background: olivedrab;
 }
 .container4 .contents {
