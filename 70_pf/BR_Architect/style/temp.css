@@ -1,0 +1,20 @@
+@charset "utf-8";
+
+/* body * {outline: 1px solid red;} */
+
+/* bg-color */
+header {
+    background: #ccc;
+}
+
+.s1 {
+    background: #eee;
+}
+
+.s2 li {
+    background: #ccc;
+}
+
+h3 {
+    background: #000;
+}
